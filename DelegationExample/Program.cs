@@ -5,7 +5,7 @@ namespace DelegationExample
 {
     /// <summary>
     /// Delegation is used for using method as a method parameters. 
-    /// In this way we can call any method that match our delegate initialization.                      BURN IT ALL DOWN WITH SILENCE
+    /// In this way we can call any method that match our delegate initialization.         
     /// </summary>
     public class Program
     {
